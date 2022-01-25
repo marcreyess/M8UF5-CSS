@@ -1,0 +1,127 @@
+body {
+    background-image: url(../img/fons.jpg);
+}
+#SMX2X {
+    color: white;
+    float: left;
+    background-color: black;
+    border-radius: 50%;
+    height: 80px;
+    width: 110px;
+    text-align: right;
+    line-height: 80px;
+}
+.general {
+    height: 500px;
+    width: 700px;
+    margin: 0 auto; 
+}
+div ul {
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+    color: white;
+    float: left;
+    background-color: rgb(56, 192, 255);
+    border-radius: 60%;
+    height: 40px;
+    width: 60px;
+    line-height: 35px;
+    text-align: center;
+    margin-left: 5px;
+}
+.menu {
+    float: right;
+    margin-right: 30px;
+}
+p {
+    color: rgb(53, 53, 53);
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imatges{
+    background-color: gray;
+    margin-left: -1000px;
+    margin-right: -1000px;
+    text-align: center;
+    height: 220px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: row;
+}
+#edifici {
+    border-radius: 100%;
+    height: 150px;
+    width: 160px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+#institut {
+    margin-top: 0px;
+    margin-left: 0px;
+    color: white;
+    font-size: 20px;
+}
+#modul8 {
+    border-radius: 100%;
+    height: 150px;
+    width: 160px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#modul {
+    margin-top: 5px;
+    margin-left: 100px;
+    color: white;
+    font-size: 20px;
+}
+#alumne {
+    border-radius: 100%;
+    height: 150px;
+    width: 160px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#jo {
+    margin-top: 5px;
+    margin-left: 100px;
+    color: white;
+    font-size: 20px;
+}
+img {
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+}
+.fab {
+    font-size: 25px;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+.footer {
+    margin-left: 38%;
+}
+.fa-instagram-square {
+    color: magenta;
+}
+.fa-facebook-square {
+    color: midnightblue;
+}
+.fa-twitter-square {
+    color: cyan;
+}
+.fa-flickr {
+    color: white;
+}
+.fa-snapchat-square {
+    color: yellow;
+}
+#copyr {
+    padding-top: 15px;
+    text-align: center;
+}

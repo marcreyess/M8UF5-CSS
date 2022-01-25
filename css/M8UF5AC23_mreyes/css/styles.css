@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-image: url(../img/IMAGEN.png);
+}
+table {
+    width: 70%;
+}
+.par1 {
+    text-decoration-line: underline;
+}
+.par2 {
+    text-decoration-line: line-through;
+}
+.p1:hover{
+    background-color: #A6B4E2;
+}
+.p2:hover{
+    background-color: #94A5DD;
+}
+.p3:hover{
+    background-color: #8396D7;
+}
+.p4:hover{
+    background-color: #7288D0;
+}
+.p5:hover{
+    background-color: #6179CA;
+}
+.p6:hover{
+    background-color: #516BC4;
+}
+.p7:hover{
+    background-color: #415DBC;
+}
+.p8:hover{
+    background-color: #3B55AB;
+}
+.p9:hover{
+    background-color: #364D99;
+}
+.p10:hover{
+    background-color: #304487;
+}
+.p1 {
+    background-color: #ADABDD;
+}
+.p2 {
+    background-color: #9C9AD5;
+}
+.p3 {
+    background-color: #8B88CD;
+}
+.p4 {
+    background-color: #7976C5;
+}
+.p5 {
+    background-color: #6865BD;
+}
+.p6 {
+    background-color: #5754B5;
+}
+.p7 {
+    background-color: #4C49A6;
+}
+.p8 {
+    background-color: #454294;
+}
+.p9 {
+    background-color: #3D3A82;
+}
+.p10 {
+    background-color: #353370;
+}

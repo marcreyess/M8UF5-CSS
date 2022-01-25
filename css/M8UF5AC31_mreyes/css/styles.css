@@ -1,0 +1,102 @@
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contenedor {
+    background-color: #434343;
+    display: flex;
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+#menu {
+    list-style: none;
+    flex-direction: row;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+    display: inline-block;
+    width: 120px;
+    height: 35px;
+    border: solid 1px black;
+    margin: -3px;
+    text-align: center;
+    padding: 1px 20px;
+}
+.centro{
+    display: table-cell;
+    vertical-align: middle;
+}
+div ul li a {
+    text-decoration: none;
+    color: white;
+}
+#llac {
+    width: 100%;
+}
+.subtitol {
+    color: rgb(66, 66, 248);
+    font-family: 'Alegreya Sans', sans-serif;
+}
+img {
+    width: 100%;
+}
+.fotos {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+}
+#descobreix:hover {
+    opacity:0.6;
+}
+#luxe:hover {
+    opacity:0.6;
+}
+#paradisos:hover {
+    opacity:0.6;
+}
+#luxe {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.padre {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hijo {
+    width: 40%;
+    text-align: center;
+    color: grey;
+}
+input {
+    height: 30px;
+    width: 90px;
+    background-color: rgb(24, 24, 24);
+    color: whitesmoke;
+    border-radius: 5px;
+    border: none;
+}
+.peu {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.mid {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.peu a {
+    text-decoration: none;
+    color: rgb(53, 53, 53);
+    font-family: 'Alegreya Sans', sans-serif;
+}
+input:hover {
+    opacity:0.6;
+}

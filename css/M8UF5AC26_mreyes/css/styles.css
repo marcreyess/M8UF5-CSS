@@ -1,0 +1,88 @@
+body {
+    color: white;
+    background-color: black;
+    padding: 271px
+}
+#general{
+    position: absolute;
+    width: 400px;
+    height: 280px;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px ;
+    margin-left: -200px ;
+}
+#one, #eleven {
+    background-color: red;
+}
+#three, #seven {
+    background-color: yellow;
+}
+#one {
+    width: 200px;
+    height: 70px;
+    float: left;
+}
+#two {
+    width: 200px;
+    height: 70px;
+    background-color: blue;
+    float: right;
+}
+#three {
+    width: 100px;
+    height: 140px;
+    float: inline-start;
+}
+#four {
+    width: 100px;
+    height: 70px;
+    background-color: purple;
+    float: left;
+}
+#five {
+    width: 200px;
+    height: 70px;
+    background-color: navy;
+    float: right;
+}
+#six {
+    width: 100px;
+    height: 70px;
+    background-color: deeppink;
+    float: left;
+}
+#seven {
+    width: 100px;
+    height: 70px;
+    display: inline-block;
+}
+#eight {
+    width: 100px;
+    height: 70px;
+    background-color: white;
+    float: inline-end;
+}
+#nine {
+    width: 100px;
+    height: 70px;
+    background-color: mediumpurple;
+    float: left;
+}
+#ten {
+    width: 100px;
+    height: 70px;
+    background-color: brown;
+    float: left;
+}
+#eleven {
+    width: 100px;
+    height: 70px;
+    display: inline-block;
+}
+#twelve {
+    width: 100px;
+    height: 70px;
+    background-color: saddlebrown;
+    float: inline-end;
+}

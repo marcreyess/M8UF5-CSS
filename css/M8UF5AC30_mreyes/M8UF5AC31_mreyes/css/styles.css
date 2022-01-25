@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+nav {
+    background-color: #434343;
+    display: flex;
+    height: 25px;
+    width: 100%;
+}
+#menu {
+    list-style: none;
+    flex-direction: row;
+    margin: auto;
+    
+}
+li {
+    display: inline-block;
+    width: 120px;
+    height: 20px;
+    border: solid 1px black;
+    margin: -3px;
+    text-align: center;
+    padding: 1px 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+#llac {
+    width: 100%;
+}
+h2 {
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+.fotos {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+}
+#luxe {
+    padding-left: 3%;
+    padding-right: 3%;
+}

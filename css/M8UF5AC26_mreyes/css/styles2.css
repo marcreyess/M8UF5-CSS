@@ -1,0 +1,162 @@
+body {
+    background-color: black;
+}
+.c1 {
+    float: left;
+    width: 90px;
+    height: 600px;
+}
+.c2 {
+    margin-left: 15px;
+    float: left;
+    width: 200px;
+    height: 600px;
+}
+.c3 {
+    float: left;
+    margin-left: 15px;
+    width: 200px;
+    height: 600px;
+}
+.c4 {
+    float: left;
+    margin-left: 15px;
+    width: 200px;
+    height: 600px;
+}
+.c5 {
+    float: left;
+    margin-left: 15px;
+    width: 200px;
+    height: 600px;
+}
+.a1>.c5 {
+    float: inline-start;
+}
+.a2>.c5 {
+    float: inline-end;
+}
+#q1 {
+    background-color: white;
+    width: 90px;
+    height: 120px;
+}
+#q2 {
+    background-color: white;
+    width: 90px;
+    height: 380px;
+}
+#q3 {
+    background-color: white;
+    width: 90px;
+    height: 50px;
+}
+#q4 {
+    background-color: white;
+    width: 90px;
+    height: 50px;
+}
+#q5 {
+    background-color: goldenrod;
+    width: 200px;
+    height: 649px;
+}
+#q6 {
+    background-color: #464EC7;
+    width: 200px;
+    height: 190px;
+}
+#q7 {
+    background-color: goldenrod;
+    width: 200px;
+    height: 443px;
+}
+#q8 {
+    background-color: crimson;
+    width: 200px;
+    height: 443px;
+}
+#q9 {
+    background-color: crimson;
+    width: 92px;
+    height: 50px;
+    float: inline-start;
+    margin-top: 15px;
+}
+#q10 {
+    background-color: crimson;
+    width: 92px;
+    height: 50px;
+    float: inline-end;
+    margin-top: 15px;
+}
+#q11 {
+    background-color: #464EC7;
+    width: 92px;
+    height: 126px;
+    margin-top: 80px;
+}
+#q12 {
+    background-color: crimson;
+    width: 92px;
+    height: 126px;
+    margin-top: -126px;
+    float: right;
+}
+#q13 {
+    background-color: goldenrod;
+    width: 90px;
+    height: 120px;
+    float: left;
+    margin-top: 17px;
+    
+}
+#q14 {
+    background-color: goldenrod;
+    width: 90px;
+    height: 50px;
+    float: right;
+    margin-top: 17px;
+}
+#q15 {
+    background-color: crimson;
+    width: 90px;
+    height: 50px;
+    float: right;
+    margin-top: 17px;
+}
+#q16 {
+    background-color: white;
+    width: 90px;
+    height: 50px;
+    float: left;
+    margin-top: 85px;
+    margin-left: -90px;
+}
+#q17 {
+    background-color: white;
+    width: 90px;
+    height: 50px;
+    float: right;
+    margin-top: 18px;
+}
+#q18 {
+    background-color: crimson;
+    width: 200px;
+    height: 241px;
+    margin-top: 216px;
+}
+#q19 {
+    background-color: goldenrod;
+    width: 90px;
+    height: 190px;
+    float: left;
+    margin-top: 17px;
+}
+#q20 {
+    background-color: goldenrod;
+    width: 90px;
+    height: 190px;
+    float: right;
+    margin-top: 17px;
+}
